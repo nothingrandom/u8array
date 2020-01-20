@@ -13,7 +13,11 @@ $ npm install u8array
 ``` js
 const u8 = require('u8array');
 
-const uint8array = u8('test string');
+// returns Uint8Array [116, 101, 115, 116];
+const uint8object = u8('test');
+
+// returns [116, 101, 115, 116];
+const array = [...u8('test')];
 ```
 
 ## License
