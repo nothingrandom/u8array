@@ -1,4 +1,4 @@
-# roll
+# u8array
 ![Travis (.com)](https://img.shields.io/travis/com/nothingrandom/u8array)
 > Create Uint8Array from string
 
