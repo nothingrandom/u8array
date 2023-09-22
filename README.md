@@ -21,4 +21,4 @@ const array = [...u8('test')];
 ```
 
 ## License
-MIT © [Benjamin Hollway](https://nothingrandom.com)
+MIT © [Benjamin Grant](https://nothingrandom.com)
